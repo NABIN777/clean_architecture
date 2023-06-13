@@ -2,7 +2,7 @@ import 'package:hive/hive.dart';
 import 'package:student_clean_arch/config/constants/hive_table_constant.dart';
 import 'package:uuid/uuid.dart';
 
-import '../../domain/entity/course_intentity.dart';
+import '../../../auth/domain/entity/course_intentity.dart';
 
 part 'course_hive_model.g.dart';
 

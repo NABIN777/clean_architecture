@@ -1,0 +1,3 @@
+part 'course_hive_model_g.dart';//////for removing this error and to create a file with this
+
+dart run build_runner build --delete-conflicting-outputs

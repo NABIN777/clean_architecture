@@ -1,10 +1,10 @@
 import 'package:hive/hive.dart';
-import 'package:student_clean_arch/features/auth/domain/entity/student_entity.dart';
 import 'package:uuid/uuid.dart';
 
 import '../../../../config/constants/hive_table_constant.dart';
-import 'batch_hive_model.dart';
-import 'course_hive_model.dart';
+import '../../../auth/domain/entity/student_entity.dart';
+import '../../../batch/data/model/batch_hive_model.dart';
+import '../../../course/data/model/course_hive_model.dart';
 
 // part should be below import!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
