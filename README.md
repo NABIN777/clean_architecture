@@ -1,6 +1,6 @@
 # student_clean_arch
 
-A new Flutter project.
+A new Flutter project.So in this repository, we are following the clean architecture where we keep priority to the spearhead of concern that helps you design and maintain modular, cohesive, and loosely coupled systems. It means dividing your software into distinct parts that have clear responsibilities and interfaces and that can be developed, tested, and changed independently.
 
 ## Getting Started
 
